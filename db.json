@@ -1,0 +1,40 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Nikky Starry",
+      "email": "nikkystarry@gmail.com",
+      "phone": "98899090"
+    },
+    {
+      "id": "2",
+      "name": "Loid Starboy",
+      "email": "loidstarboy@gmail.com",
+      "phone": "98899130"
+    },
+    {
+      "id": "3",
+      "name": "Lee",
+      "email": "owonikoko@gmail.com",
+      "phone": "903116037"
+    },
+    {
+      "id": "4",
+      "name": "Onyeka",
+      "email": "onyeka@le.com",
+      "phone": "123456789"
+    },
+    {
+      "id": "5",
+      "name": "oGHENE",
+      "email": "ogaga@gmail.com",
+      "phone": "123456789"
+    },
+    {
+      "id": "6",
+      "name": "lee oooo",
+      "email": "asdfghj@gmail.com",
+      "phone": "123456789"
+    }
+  ]
+}
